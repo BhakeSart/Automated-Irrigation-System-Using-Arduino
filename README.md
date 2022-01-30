@@ -7,14 +7,14 @@ The main board with ATMega 328p microcontroller used here [Arduino Uno](https://
 
 The Components Used for this Project are as Follows:
 
-1. Arduino Uno.
-2. Soil Moisture Sensor.
-3. Ultrasonic Sensor (HC-SR04).
-4. 20x4 lcd display.
-5. Virtual Terminal. 
-6. 2x DC Motors.
-7. 3x Potentiometers.
-8. Several transistors , resistors , capacitors and inductors.
+1.  Arduino Uno.
+2.  Soil Moisture Sensor.
+3.  Ultrasonic Sensor (HC-SR04).
+4.  20x4 lcd display.
+5.  Virtual Terminal. 
+6.  2x DC Motors.
+7.  3x Potentiometers.
+8.  Several transistors , resistors , capacitors and inductors.
 
 ## Circuit Diagram
 
@@ -28,7 +28,7 @@ The Components Used for this Project are as Follows:
 
 ## Output
 
-<img src=""  alt="Snippet of Code">  
+<img src="https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/assets/Output.jpg"  alt="Snippet of Code">  
 
 
 
