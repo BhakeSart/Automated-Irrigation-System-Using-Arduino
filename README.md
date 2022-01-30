@@ -20,7 +20,9 @@ The Components Used for this Project are as Follows:
 
 ![Circuit Diagram](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/Circuit%20Diagram.jpg "Circuit Diagram")
 
+## Snippets of Code
 
+![Snippets of Code](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/Circuit%20Diagram.jpg "Snippets of Code")
 
 
 
