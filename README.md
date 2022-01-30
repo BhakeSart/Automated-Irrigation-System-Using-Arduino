@@ -18,7 +18,7 @@ The Components Used for this Project are as Follows:
 
 ## Circuit Diagram
 
-![Circuit Diagram]("C:\Users\Sarthak\Desktop\FY Engineering\Semester 2 FY\Capstone project\Auto 2\Circuit Diagram.jpg")
+<img src=""C:\Users\Sarthak\Desktop\FY Engineering\Semester 2 FY\Capstone project\Auto 2\Circuit Diagram.jpg" alt="Circuit Diagram">
 
 
 
