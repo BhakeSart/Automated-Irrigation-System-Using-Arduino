@@ -24,7 +24,7 @@ The Components Used for this Project are as Follows:
 
 ## Snippet of Code
 
-![Snippet of Code](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/assets/Screenshot%202022-01-30%20211237.jpg=100x50 "Snippet of Code") ![Snippet of Code](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/assets/Screenshot%202022-01-30%20211253.jpg=100x50 "Snippet of Code")
+![Snippet of Code](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/assets/Screenshot%202022-01-30%20211237.jpg =100x20 "Snippet of Code") ![Snippet of Code](https://github.com/BhakeSart/Automed-Irrigation-System-Using-Arduino/blob/main/assets/Screenshot%202022-01-30%20211253.jpg =100x20 "Snippet of Code")
 
 
 
